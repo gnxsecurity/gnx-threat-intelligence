@@ -45,5 +45,3 @@ gnX records and generates a signifcant amount of data about each potential attac
 - IP Address / DNS with reverse lookup/arin/whois data generated in real time.
 - Attack signatures, strings, injection parameters for later utilization in our honey pots.
 - Anonymously check for open ports and responses on the attackers end to identify C&C/malicious software.
-
-<img src="https://gnxsecurity.com/clippy.png" alt="drawing" width="250"/>
