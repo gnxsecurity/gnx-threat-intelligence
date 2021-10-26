@@ -32,6 +32,8 @@ Before an IP addresses is comitted to the list, it must have met the following c
 - Observed making at least one malicious attempts against three separate honey pot servers over the course of one hour.
 - Observed making at least fifteen attempts against a single or multiple servers over the course of 12 hours.
 
+The critical list increases the criteria by 100%.  The low list reduces the criteria by 100%.
+
 ### Sanitiation
 A notable amount of effort is put into reducing the possibility of false positives, including:
 
