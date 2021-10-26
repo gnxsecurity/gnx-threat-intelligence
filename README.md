@@ -2,8 +2,19 @@
 
 ***
 
-### About
-gnX threat intelligence feed contains a blacklist of IP addresses that have crossed a threshold indicating malicious intent.  The list is updated every half an hour. 
+# About
+gnX threat intelligence feed contains a blacklist of IP addresses that have crossed a threshold indicating malicious intent.  Because of our criteria standards and threat list sanitiation process, we significantly reduce the potential of false positives, therefore our threat feed is safe to use a set and forget blocklist.
+
+The list is updated every half an hour for rapid threat blocking. 
+
+### Formats
+The following formats are available:
+
+1. latest-blacklist.raw:  one IP address per-line
+2. latest-blacklist.sc:  semi-colon separated list of IP addresses for some firewalls (e.g Fortinet).
+3. latest-blacklist.csv:  comma separated list of IP addresses.
+4. latest-blacklist.cdb:  CDB format list for OSSEC/Wazuh integration
+5. latest-blacklist.crit:  Contains the most critical of threats that significantly exceed the criteria standards below.
 
 ### Source
 gnX runs a micro server farm in multiple locations consisting of a variety of honey pot solutions, often built in house, which monitor for the following types of events:
@@ -13,17 +24,26 @@ gnX runs a micro server farm in multiple locations consisting of a variety of ho
 - Injection attempts against web applications, databases and API endpoints.
 - Vulnerability scans and attacks using common/known software through signature identification.
 
-### Recorded data
-gnX records and generates a signifcant amount of data about each potential attacker including:
-
-- IP Address / DNS with reverse lookup/arin/whois data generated in real time.
-- Attack signatures, strings, injection parameters for later utilization in our honey pots.
-- Anonymously check for open ports and responses on the attackers end to identify C&C/malicious software.
-- Aggregate data from other public threat sources to enrich the recorded data.
-
 ### Criteria
 Before an IP addresses is comitted to the list, it must have met the following criteria:
 
 - Observed making at least five malicious attempts against a single honey pot system over the course of one hour.
 - Observed making at least one malicious attempts against three separate honey pot servers over the course of one hour.
 - Observed making at least fifteen attempts against a single or multiple servers over the course of 12 hours.
+
+### Sanitiation
+A notable amount of effort is put into reducing the possibility of false positives, including:
+
+- Whitelists are leveraged to ensure popular web properties aren't accidentily listed.
+- Any internal IP addressing (BOGONS) are removed.
+- Reverse lookups are performed to gather data points which help determine whether an item should be removed.
+- Addresses are routinely removed when they no longer pose a threat (e.g being shut down by ISP/Hosting provider)
+
+### Recorded data
+gnX records and generates a signifcant amount of data about each potential attacker including:
+
+- IP Address / DNS with reverse lookup/arin/whois data generated in real time.
+- Attack signatures, strings, injection parameters for later utilization in our honey pots.
+- Anonymously check for open ports and responses on the attackers end to identify C&C/malicious software.
+
+<img src="https://gnxsecurity.com/clippy.png" alt="drawing" width="250"/>
