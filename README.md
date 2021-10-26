@@ -3,18 +3,19 @@
 ***
 
 # About
-gnX threat intelligence feed contains a blacklist of IP addresses that have crossed a threshold indicating malicious intent.  Because of our criteria standards and threat list sanitiation process, we significantly reduce the potential of false positives, therefore our threat feed is safe to use a set and forget blocklist.
+gnX threat intelligence feed contains a blacklist of IP addresses that have crossed a threshold indicating malicious intent and/or potential IOC [indicator of compromise] activity.  Because of the criteria standards and threat list sanitiation process, we significantly reduce the potential of false positives.  Can be used as a standalone blocklist or to agument your existing threat intelligence.
 
-The list is updated every half an hour for rapid threat blocking. 
+The list is updated every 30 minutes for rapid threat blocking. 
 
 ### Formats
 The following formats are available:
 
-1. latest-blacklist.raw:  one IP address per-line
+1. latest-blacklist.raw:  one IP address per-line [standard format]
 2. latest-blacklist.sc:  semi-colon separated list of IP addresses for some firewalls (e.g Fortinet).
 3. latest-blacklist.csv:  comma separated list of IP addresses.
 4. latest-blacklist.cdb:  CDB format list for OSSEC/Wazuh integration
-5. latest-blacklist.crit:  Contains the most critical of threats that significantly exceed the criteria standards below.
+5. latest-blacklist.crit:  Most critical of threats that significantly exceed the criteria standards below.
+6. latest-blacklist.low:  All threats including low severity, may contain false positives, use with caution.
 
 ### Source
 gnX runs a micro server farm in multiple locations consisting of a variety of honey pot solutions, often built in house, which monitor for the following types of events:
