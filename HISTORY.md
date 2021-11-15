@@ -962,3 +962,4 @@ Mon Nov 15 20:19:28 UTC 2021: threat count: 20742<br>
 Mon Nov 15 20:51:01 UTC 2021: threat count: 20754<br>
 Mon Nov 15 21:22:34 UTC 2021: threat count: 20766<br>
 Mon Nov 15 21:54:06 UTC 2021: threat count: 20771<br>
+Mon Nov 15 22:25:38 UTC 2021: threat count: 20781<br>
