@@ -1936,3 +1936,4 @@ Tue Dec  7 06:24:49 UTC 2021: threat count: 35295<br>
 Tue Dec  7 06:56:26 UTC 2021: threat count: 35321<br>
 Tue Dec  7 07:28:02 UTC 2021: threat count: 35341<br>
 Tue Dec  7 07:59:39 UTC 2021: threat count: 35360<br>
+Tue Dec  7 08:31:15 UTC 2021: threat count: 35381<br>
