@@ -2028,3 +2028,4 @@ Thu Dec  9 06:54:15 UTC 2021: threat count: 36752<br>
 Thu Dec  9 07:25:52 UTC 2021: threat count: 36763<br>
 Thu Dec  9 07:57:30 UTC 2021: threat count: 36785<br>
 Thu Dec  9 08:29:07 UTC 2021: threat count: 36801<br>
+Thu Dec  9 09:00:44 UTC 2021: threat count: 36820<br>
