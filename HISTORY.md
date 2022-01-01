@@ -3054,3 +3054,4 @@ Fri Dec 31 22:08:30 UTC 2021: threat count: 50125<br>
 Fri Dec 31 22:40:20 UTC 2021: threat count: 50133<br>
 Fri Dec 31 23:12:10 UTC 2021: threat count: 50141<br>
 Fri Dec 31 23:44:01 UTC 2021: threat count: 50155<br>
+Sat Jan  1 00:15:51 UTC 2022: threat count: 50161<br>
