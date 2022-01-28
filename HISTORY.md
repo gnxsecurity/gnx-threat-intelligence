@@ -4310,3 +4310,4 @@ Fri Jan 28 19:45:07 UTC 2022: threat count: 65081<br>
 Fri Jan 28 20:17:06 UTC 2022: threat count: 65087<br>
 Fri Jan 28 20:49:05 UTC 2022: threat count: 65097<br>
 Fri Jan 28 21:21:04 UTC 2022: threat count: 65110<br>
+Fri Jan 28 21:53:02 UTC 2022: threat count: 65121<br>
