@@ -5313,3 +5313,4 @@ Sun Feb 20 03:32:36 UTC 2022: threat count: 75223<br>
 Sun Feb 20 04:04:46 UTC 2022: threat count: 75237<br>
 Sun Feb 20 04:36:55 UTC 2022: threat count: 75247<br>
 Sun Feb 20 05:09:02 UTC 2022: threat count: 75254<br>
+Sun Feb 20 05:41:10 UTC 2022: threat count: 75264<br>
