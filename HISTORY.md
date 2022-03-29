@@ -6970,3 +6970,4 @@ Tue Mar 29 07:28:17 UTC 2022: threat count: 47161<br>
 Tue Mar 29 08:03:22 UTC 2022: threat count: 47177<br>
 Tue Mar 29 08:38:28 UTC 2022: threat count: 47193<br>
 Tue Mar 29 09:13:33 UTC 2022: threat count: 47201<br>
+Tue Mar 29 09:48:38 UTC 2022: threat count: 47211<br>
