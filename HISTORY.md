@@ -9544,3 +9544,4 @@ Tue May 31 04:43:20 UTC 2022: threat count: 60814<br>
 Tue May 31 05:18:33 UTC 2022: threat count: 60821<br>
 Tue May 31 05:53:47 UTC 2022: threat count: 60829<br>
 Tue May 31 06:29:00 UTC 2022: threat count: 60834<br>
+Tue May 31 07:04:14 UTC 2022: threat count: 60840<br>
