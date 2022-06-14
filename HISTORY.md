@@ -10137,3 +10137,4 @@ Tue Jun 14 17:12:20 UTC 2022: threat count: 64055<br>
 Tue Jun 14 17:47:38 UTC 2022: threat count: 64057<br>
 Tue Jun 14 18:22:56 UTC 2022: threat count: 64063<br>
 Tue Jun 14 18:58:13 UTC 2022: threat count: 64073<br>
+Tue Jun 14 19:33:31 UTC 2022: threat count: 64077<br>
