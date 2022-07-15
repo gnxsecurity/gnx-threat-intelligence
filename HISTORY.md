@@ -11420,3 +11420,4 @@ Fri Jul 15 07:37:23 UTC 2022: threat count: 71617<br>
 Fri Jul 15 08:12:45 UTC 2022: threat count: 71621<br>
 Fri Jul 15 08:48:07 UTC 2022: threat count: 71631<br>
 Fri Jul 15 09:23:29 UTC 2022: threat count: 71637<br>
+Fri Jul 15 09:58:50 UTC 2022: threat count: 71644<br>
