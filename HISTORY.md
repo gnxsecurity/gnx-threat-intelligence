@@ -12120,3 +12120,4 @@ Mon Aug  1 12:18:51 UTC 2022: threat count: 75699<br>
 Mon Aug  1 12:54:12 UTC 2022: threat count: 75704<br>
 Mon Aug  1 13:29:34 UTC 2022: threat count: 75706<br>
 Mon Aug  1 14:04:56 UTC 2022: threat count: 75711<br>
+Mon Aug  1 14:40:18 UTC 2022: threat count: 75714<br>
