@@ -12895,3 +12895,4 @@ Fri Aug 19 12:24:11 UTC 2022: threat count: 80197<br>
 Fri Aug 19 12:57:26 UTC 2022: threat count: 80203<br>
 Fri Aug 19 13:30:41 UTC 2022: threat count: 80208<br>
 Fri Aug 19 14:03:56 UTC 2022: threat count: 80215<br>
+Fri Aug 19 14:37:10 UTC 2022: threat count: 80220<br>
