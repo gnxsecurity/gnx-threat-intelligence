@@ -13301,3 +13301,4 @@ Sun Aug 28 21:30:42 UTC 2022: threat count: 82563<br>
 Sun Aug 28 22:04:01 UTC 2022: threat count: 82570<br>
 Sun Aug 28 22:37:21 UTC 2022: threat count: 82574<br>
 Sun Aug 28 23:10:38 UTC 2022: threat count: 82578<br>
+Sun Aug 28 23:43:53 UTC 2022: threat count: 82582<br>
