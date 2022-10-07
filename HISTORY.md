@@ -15033,3 +15033,4 @@ Fri Oct  7 12:10:20 UTC 2022: threat count: 91952<br>
 Fri Oct  7 12:41:33 UTC 2022: threat count: 91957<br>
 Fri Oct  7 13:12:46 UTC 2022: threat count: 91963<br>
 Fri Oct  7 13:43:59 UTC 2022: threat count: 91968<br>
+Fri Oct  7 14:15:13 UTC 2022: threat count: 91976<br>
