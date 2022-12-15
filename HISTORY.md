@@ -18120,3 +18120,4 @@ Thu Dec 15 04:09:32 UTC 2022: threat count: 107634<br>
 Thu Dec 15 04:45:18 UTC 2022: threat count: 107638<br>
 Thu Dec 15 05:21:04 UTC 2022: threat count: 107645<br>
 Thu Dec 15 05:56:50 UTC 2022: threat count: 107647<br>
+Thu Dec 15 06:32:37 UTC 2022: threat count: 107650<br>
