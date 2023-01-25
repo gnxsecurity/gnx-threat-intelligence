@@ -19771,3 +19771,4 @@ Wed Jan 25 05:46:00 UTC 2023: threat count: 116845<br>
 Wed Jan 25 06:21:51 UTC 2023: threat count: 116850<br>
 Wed Jan 25 06:57:41 UTC 2023: threat count: 116859<br>
 Wed Jan 25 07:33:34 UTC 2023: threat count: 116864<br>
+Wed Jan 25 08:09:26 UTC 2023: threat count: 116873<br>
