@@ -20041,3 +20041,4 @@ Tue Jan 31 23:15:23 UTC 2023: threat count: 118574<br>
 Tue Jan 31 23:51:13 UTC 2023: threat count: 118581<br>
 Wed Feb  1 00:27:05 UTC 2023: threat count: 118585<br>
 Wed Feb  1 01:02:58 UTC 2023: threat count: 118592<br>
+Wed Feb  1 01:38:48 UTC 2023: threat count: 118602<br>
