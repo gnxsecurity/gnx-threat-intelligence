@@ -20412,3 +20412,4 @@ Fri Feb 10 05:22:30 UTC 2023: threat count: 120898<br>
 Fri Feb 10 05:58:24 UTC 2023: threat count: 120904<br>
 Fri Feb 10 06:34:15 UTC 2023: threat count: 120910<br>
 Fri Feb 10 07:10:09 UTC 2023: threat count: 120916<br>
+Fri Feb 10 07:46:03 UTC 2023: threat count: 120921<br>
